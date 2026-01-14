@@ -1,3 +1,9 @@
+
+
+
+
+
+
 1. projekt ska använda vite för frontend & express för backend
 
 2. 
