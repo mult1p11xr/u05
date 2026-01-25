@@ -1,8 +1,8 @@
-/* import express from 'express';
+import express from 'express';
 import bodyParser from 'body-parser';
 import React from 'react';
 
-import usersRoutes from '../../routes/users.js';
+import usersRoutes from './routes/users.js';
 
 const app = express();
 const PORT = 3000;
@@ -19,11 +19,6 @@ app.get('/users', (req, res) => {
   res.send('OK');
 });
 
-const app() => {
-}
+
 
 export default App;
-
-*/
-
-
